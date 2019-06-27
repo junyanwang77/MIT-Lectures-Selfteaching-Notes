@@ -1,2 +1,2 @@
-# MIT-Python-Course-Selfteaching-Notes
+# MIT-Lectures-Selfteaching-Notes
 python selfteaching
